@@ -1,5 +1,3 @@
-# starter-kit[index.html](https://github.com/user-attachments/files/26320715/index.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
